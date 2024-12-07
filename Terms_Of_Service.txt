@@ -1,0 +1,51 @@
+Terms of Service
+Last Updated: 12/7/2024
+
+Welcome to Pyramus.Utilities, a Discord bot developed by Pyramus Studios ("we," "our," or "us"). By using the Pyramus.Utilities bot (the "Service"), you ("User") agree to these Terms of Service ("Terms"). If you do not agree to these Terms, you must cease using the Service immediately. Continued use of the Service constitutes your agreement to these Terms.
+
+1. Acceptance of Terms
+By installing, accessing, or using Pyramus.Utilities, you acknowledge that you have read, understood, and agree to be bound by these Terms. You represent that you are of legal age in your jurisdiction to form a binding contract and that you have the necessary authority to enter into these Terms.
+
+2. No Warranties or Guarantees
+THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. PYRAMUS STUDIOS MAKES NO WARRANTIES, EXPRESS OR IMPLIED, AND DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+We do not warrant that the Service will be error-free, uninterrupted, secure, or free from harmful components, nor do we guarantee any specific outcomes, accuracy, or reliability of the Service.
+
+3. Limitation of Liability
+To the fullest extent permitted by applicable law:
+
+Pyramus Studios, its affiliates, officers, employees, agents, and licensors will not be liable for any direct, indirect, incidental, consequential, special, or exemplary damages, including but not limited to loss of data, profits, goodwill, or other intangible losses, resulting from:
+
+The use of or inability to use the Service;
+Any modification, suspension, or discontinuance of the Service;
+Unauthorized access to or alteration of your data;
+Statements or conduct of any third party via the Service;
+Any other matter relating to the Service.
+You expressly agree that your use of the Service is at your sole risk, and you assume full responsibility for any consequences resulting from its use.
+
+4. User Responsibilities
+You are solely responsible for all interactions, data submissions, and actions performed through your use of the Service.
+Pyramus Studios is not responsible for monitoring or moderating the content or actions of users. All actions and outcomes associated with the Service are your sole responsibility.
+You agree to use the Service only in compliance with all applicable laws and regulations, including Discord's Terms of Service and Community Guidelines.
+5. Indemnification
+You agree to indemnify, defend, and hold harmless Pyramus Studios, its affiliates, officers, employees, agents, and licensors from and against any claims, liabilities, damages, losses, and expenses, including but not limited to reasonable attorney's fees, arising out of or in any way connected with:
+
+Your access to or use of the Service;
+Your violation of these Terms;
+Any claim by a third party related to your use of the Service.
+6. Disclaimer of Liability for Third-Party Content
+The Service may interact with or facilitate integrations involving third-party platforms, including Discord. Pyramus Studios is not responsible for the availability, accuracy, or reliability of any third-party content or services. Your interactions with third parties through the Service are entirely at your own risk.
+
+7. Termination of Service
+Pyramus Studios reserves the right to modify, suspend, or terminate the Service, or your access to it, at any time without notice or liability. We may also update these Terms at our discretion, with continued use of the Service signifying your acceptance of any changes.
+
+8. Governing Law
+These Terms are governed by and construed in accordance with the laws of Texas, USA. You agree to submit to the exclusive jurisdiction of the courts located in Texas, USA for the resolution of any disputes arising out of or related to these Terms or the Service.
+
+9. Entire Agreement
+These Terms constitute the entire agreement between you and Pyramus Studios regarding your use of the Service, superseding any prior agreements. If any provision of these Terms is deemed invalid or unenforceable, the remaining provisions will remain in full force and effect.
+
+Contact Us
+For questions or concerns regarding these Terms, please contact us via our Discord server.
+
+Acknowledgment
+By using Pyramus.Utilities, you acknowledge that you have read, understood, and agree to these Terms of Service.
